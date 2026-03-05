@@ -2,8 +2,8 @@
     <string name="app_name">CognateApp</string>
     <string name="greeting">Hi Guys</string>
     <string name="timer_title">Boiled Egg Timer</string>
-    <string name="soft_boiled">3–4 minutes: Soft (runny)</string>
-    <string name="runny_jammy">5–6 minutes: Runny/Jammy</string>
-    <string name="firm_creamy">7–8 minutes: Firm but creamy</string>
-    <string name="hard_boiled">10+ minutes: Hard-boiled</string>
+    <string name="soft_boiled">4 Minutes for Soft(Runny)</string>
+    <string name="runny_jammy">6 Minutes for Runny/Jammy</string>
+    <string name="firm_creamy">8 Minutes for Creamy</string>
+    <string name="hard_boiled">10 Minutes for Hard Boiled</string>
 </resources>
