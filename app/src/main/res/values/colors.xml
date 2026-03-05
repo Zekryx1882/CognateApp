@@ -7,4 +7,9 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+    <color name="egg_soft">#FFF176</color>
+    <color name="egg_runny">#FFB74D</color>
+    <color name="egg_firm">#FF8A65</color>
+    <color name="egg_hard">#F44336</color>
 </resources>
